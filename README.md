@@ -1,2 +1,1 @@
-# CODE_KO_ITO
-here's my project(s) that i been deploy in github...
+
